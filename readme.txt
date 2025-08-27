@@ -16,6 +16,8 @@ Easily switch between two distinct content sections (Left & Right) using a toggl
 The Toggle Content Block lets you create two separate sections - "Left Content" and "Right Content" - and switch between them instantly.
 Perfect for before/after comparisons, feature toggles, multi-step content, monthly-annual plans, or simply organizing content in an interactive way.
 
+https://www.youtube.com/watch?v=drjJLmMAr3E
+
 **Features:**
 - Preloads both "Left Content" and "Right Content" blocks by default.
 - Allows any type of inner blocks inside each section.
