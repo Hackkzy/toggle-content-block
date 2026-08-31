@@ -20,7 +20,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/hackkzy/toggle-content-block/refs/heads/main/_playground/export.xml"
+        "url": "https://raw.githubusercontent.com/BhargavBhandari90/toggle-content-block/refs/heads/main/_playground/export.xml"
       }
     }
   ]
